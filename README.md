@@ -1,0 +1,1 @@
+# Predicts_Daily_Water_Consumption-HackerEarth_ML_Challenge-World_Water_Day-032025
